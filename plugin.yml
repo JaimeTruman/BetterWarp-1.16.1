@@ -1,0 +1,15 @@
+name: betterWarps
+main: es.warp.Main
+version: 2.0
+api-version: "1.16"
+author: JaimeTruman
+commands:
+  warp:
+    description: Sirve para teletransportarse a otro lado
+    usage: /<command>
+  addwarp:
+    description: poner un nuevo warp, reservado para admins
+    usage: /<command> <nombre>
+  deletewarp:
+    description: borrar un warp
+    usage: /<command> <id>

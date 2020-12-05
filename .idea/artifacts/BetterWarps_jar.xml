@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BetterWarps:jar">
+    <output-path>C:/xampp/htdocs/descargas</output-path>
+    <root id="archive" name="warps.jar">
+      <element id="module-output" name="warps" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
